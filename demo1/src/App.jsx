@@ -6,6 +6,7 @@ import "./styles/App.scss"
 import Header from './components/Header'
 import Home from './components/Home'
 import "./styles/header.scss"
+import "./styles/home.scss"
 
 function App() {
   
